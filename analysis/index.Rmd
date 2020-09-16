@@ -15,4 +15,4 @@ Welcome to my research website.
 This is my first workflowr website!
 You should check out Kyle's analysis! 
 
-* [Kyle's Teeth growth analysis](https://kyleghaby-uchicago.github.io/myproject/)
+* [Kyle's Teeth growth analysis](https://kylemlin.github.io/myproject/)
